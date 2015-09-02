@@ -1,0 +1,79 @@
+I 
+2017 1001.98 203.71 30000.75
+I 
+4039 500.35 700.00 10000.00
+I 
+7052 100.20 500.50 5000.40
+I 
+3026 750.44 250.00 2050.00
+I 
+6049 800.14 400.72 3033.50
+P 
+E
+C 
+6049 220.56
+C 
+7052 110.00
+P 
+S 
+3026
+D 
+2017 56.65
+D 
+4039 400.00
+C 
+3026 1010.10
+P 
+E
+C 
+4039 300.50
+D 
+6049 150.78
+C 
+2017 400.01
+D 
+3026 250.55
+P 
+S 
+2017
+D 
+7052 120.43
+C 
+4039 178.89
+P 
+E
+Q
+
+
+
+
+
+
+AKitty       Kat         777 Feline Road     Portland    OR92231
+ADeputy      Dogg        89 Cainine Lane     Huntsville  TX65342
+ATweetie     Bird        442 Hawknest Drive  Columbia    MO64303
+P E
+APorky       Pig         7 Bacon Street      Davenport   IA68202
+CDeputy      Dogg        4Dallas      
+P S Dogg        
+ADonald      Duck        840 Golden Pond Rd  Kansas City MO65552
+CSylvester   Cat         1Felix       
+AMickey      Mouse       1234 Rodent Way     Los Angeles CA95221
+ABugs        Bunnie      6 Hopalong Ave      Omaha       NE71894
+P E
+DKitty       Kat         
+AMary        Poppins     59 London Street    New York    NY12345
+P S Poppins     
+CMary        Poppins     615002
+CMickey      Mouse       2Moose       
+DMay         West               
+P S Moose       
+ARoad        Runner      1313 Desert Way     Tempe       AZ88020
+ATazmainian  Devil       67 Haides Place     San Jose    CA97202
+AWylie       Coyote      15 Luckless Drive   Tombstone   AZ85392
+CRoad        Runner      3444 Gila Bend       
+CWylie       Coyote      5NM
+AMary        Poppins     12 Singers Lane     Nashville   TN55342
+DCharlie     Brown       
+P E
+Q

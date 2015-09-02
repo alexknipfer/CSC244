@@ -1,0 +1,84 @@
+I 
+2017  1250.06  138.71 2077.75
+I 
+7052   545.05  622.10 5400.01
+I 
+4039  1100.20  740.50 7080.40
+P 
+E
+I 
+3026   650.02  375.70 3050.66
+I 
+6049    80.42  100.72 6033.50
+C 
+4039   200.50
+P 
+S 
+4039
+C 
+6049  320.56
+C 
+7052  410.03
+P 
+E
+D 
+2017 56.65
+D 
+4039 440.04
+C 
+3026 1010.10
+D 
+7052 1540.09
+P 
+S 
+3026
+D 
+6049 157.78
+C 
+2017 401.01
+D 
+3026 175.55
+P 
+S 
+3026
+D 
+4039 102.43
+C 
+7052 378.89
+P 
+E
+Q
+
+
+
+credits  debits   balance
+
+
+AKitty       Kat         777 Feline Road     Portland    OR92231
+ADeputy      Dogg        89 Cainine Lane     Huntsville  TX65342
+ATweetie     Bird        442 Hawknest Drive  Columbia    MO64303
+P E
+APorky       Pig         7 Bacon Street      Davenport   IA68202
+CDeputy      Dogg        4Dallas      
+P S Dogg        
+ADonald      Duck        840 Golden Pond Rd  Kansas City MO65552
+CSylvester   Cat         1Felix       
+AMickey      Mouse       1234 Rodent Way     Los Angeles CA95221
+ABugs        Bunnie      6 Hopalong Ave      Omaha       NE71894
+P E
+DKitty       Kat         
+AMary        Poppins     59 London Street    New York    NY12345
+P S Poppins     
+CMary        Poppins     615002
+CMickey      Mouse       2Moose       
+DMay         West               
+P S Moose       
+ARoad        Runner      1313 Desert Way     Tempe       AZ88020
+ATazmainian  Devil       67 Haides Place     San Jose    CA97202
+AWylie       Coyote      15 Luckless Drive   Tombstone   AZ85392
+CRoad        Runner      3444 Gila Bend       
+CWylie       Coyote      5NM
+AMary        Poppins     12 Singers Lane     Nashville   TN55342
+DCharlie     Brown       
+P E
+Q

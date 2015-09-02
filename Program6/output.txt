@@ -1,0 +1,101 @@
+                 Alex Knipfer         CSC 24400     Section 11
+                   Spring 2015       Assignment #6
+----------------------------------------------------------------------------
+
+New customer Kitty        Kat         successfully added to database!
+**********************************************************************
+New customer Deputy       Dogg        successfully added to database!
+**********************************************************************
+New customer Tweetie      Bird        successfully added to database!
+**********************************************************************
+                                 MAILING LIST
+Customer   Last      First                                                Zip
+Number     Name      Name          Address             City      State    Code
+===================================================================================
+1         Kat         Kitty       777 Feline Road     Portland    OR    92231 
+2         Dogg        Deputy      89 Cainine Lane     Huntsville  TX    65342 
+3         Bird        Tweetie     442 Hawknest Drive  Columbia    MO    64303 
+**********************************************************************
+New customer Porky        Pig         successfully added to database!
+**********************************************************************
+Customer Deputy       Dogg         successfully updated!
+**********************************************************************
+Customer Number: 2
+     Name: Deputy       Dogg                Address: 89 Cainine Lane     
+     City: Dallas                           State: TX     Zip Code: 65342
+**********************************************************************
+New customer Donald       Duck        successfully added to database!
+**********************************************************************
+Error! Attempt to change a non-existent record. Attempt failed!
+**********************************************************************
+New customer Mickey       Moose       successfully added to database!
+**********************************************************************
+New customer Bugs         Bunnie      successfully added to database!
+**********************************************************************
+                                 MAILING LIST
+Customer   Last      First                                                Zip
+Number     Name      Name          Address             City      State    Code
+===================================================================================
+1         Kat         Kitty       777 Feline Road     Portland    OR    92231 
+2         Dogg        Deputy      89 Cainine Lane     Dallas      TX    65342 
+3         Bird        Tweetie     442 Hawknest Drive  Columbia    MO    64303 
+4         Pig         Porky       7 Bacon Street      Davenport   IA    68202 
+5         Duck        Donald      840 Golden Pond Rd  Kansas City MO    65552 
+6         Moose       Mickey      1234 Rodent Way     Los Angeles CA    95221 
+7         Bunnie      Bugs        6 Hopalong Trail    Omaha       NE    71894 
+**********************************************************************
+Customer Kitty        Kat          successfully removed from the database
+**********************************************************************
+New customer Mary         Poppins     successfully added to database!
+**********************************************************************
+Customer Number: 8
+     Name: Mary         Poppins             Address: 59 London Street    
+     City: New York                         State: NY     Zip Code: 12345
+**********************************************************************
+Customer Mary         Poppins      successfully updated!
+**********************************************************************
+Customer Mickey       Moose        successfully updated!
+**********************************************************************
+Error! Attempt to delete a non-existent record. Attempt failed! 
+**********************************************************************
+Customer Number: 6
+     Name: Mouse        Moose               Address: 1234 Rodent Way     
+     City: Los Angeles                      State: CA     Zip Code: 95221
+**********************************************************************
+New customer Road         Runner      successfully added to database!
+**********************************************************************
+New customer Tazmainian   Devil       successfully added to database!
+**********************************************************************
+New customer Wylie        Coyote      successfully added to database!
+**********************************************************************
+Customer Road         Runner       successfully updated!
+**********************************************************************
+Customer Wylie        Coyote       successfully updated!
+**********************************************************************
+Error! Attempt to add a duplicate record. Attempt failed!
+**********************************************************************
+Error! Attempt to delete a non-existent record. Attempt failed! 
+**********************************************************************
+                                 MAILING LIST
+Customer   Last      First                                                Zip
+Number     Name      Name          Address             City      State    Code
+===================================================================================
+2         Dogg        Deputy      89 Cainine Lane     Dallas      TX    65342 
+3         Bird        Tweetie     442 Hawknest Drive  Columbia    MO    64303 
+4         Pig         Porky       7 Bacon Street      Davenport   IA    68202 
+5         Duck        Donald      840 Golden Pond Rd  Kansas City MO    65552 
+6         Moose       Mouse       1234 Rodent Way     Los Angeles CA    95221 
+7         Bunnie      Bugs        6 Hopalong Trail    Omaha       NE    71894 
+8         Poppins     Mary        59 London Street    New York    NY    15002 
+9         Runner      Road        444 Gila Bend       Tempe       AZ    88020 
+10        Devil       Tazmainian  67 Hades Place      San Jose    CA    97202 
+11        Coyote      Wylie       15 Luckless Drive   Tombstone   NM    85392 
+**********************************************************************
+
+
+
+
+
+--------------------------------   
+|    END OF PROGRAM OUTPUT     |   
+--------------------------------   
